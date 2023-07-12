@@ -1,0 +1,31 @@
+img {
+
+    width: 1460px;
+    height: 745px;
+} 
+
+h1 {
+    display: block;
+    position: absolute;
+    color: #8B2500;
+    top: 200px;
+    left: 400px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 1px 1px 2px #fff;
+}
+
+h4 {
+    display: block;
+    position: absolute;
+    color: #8B2500;
+    top: 540px;
+    left: 1000px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 1px 1px 2px #fff; 
+}
+
+button {
+    position: absolute;
+    top: 1rem;
+    right: 3rem;
+}
