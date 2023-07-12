@@ -9,3 +9,10 @@ The event management system project for college is designed to streamline and au
 3. Year: This field is used to record the academic year or class level of the participant. It helps in organizing events specific to certain groups or ensuring eligibility for participation.
 
 4. Event Name: This field captures the name or title of the event being organized. It helps in distinguishing between different events and allows for easy reference and search.
+
+
+LOGIN 
+
+this part contains the host details 
+host can be enter into through the id and password then will display the tabular form with the details who are registered 
+for particular events in a respective domain
